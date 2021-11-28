@@ -1,1 +1,1 @@
-# Image-Stitching-From-Scratch
+# Homography-and-Image-Stitching-From-Scratch
